@@ -1,0 +1,27 @@
+[24294:24294:0412/054013.771192:WARNING:chrome_main_delegate.cc(740)] This is Chrome version 123.0.6312.105 (not a warning)
+[24294:24294:0412/054013.809964:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/opt/chrome/policies/managed
+[24294:24294:0412/054013.809996:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/opt/chrome/policies/recommended
+[24294:24294:0412/054013.906364:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[24294:24294:0412/054013.906386:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[24357:1:0412/054014.014140:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[24358:1:0412/054014.015666:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[24294:24294:0412/054014.076674:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[24335:24335:0412/054014.731826:WARNING:sandbox_linux.cc(418)] InitializeSandbox() called with multiple threads in process gpu-process.
+[24408:1:0412/054014.877646:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[24414:1:0412/054014.887387:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[24357:16:0412/054015.346037:INFO:peer_connection_dependency_factory.cc(717)] Running WebRTC with a combined Network and Worker thread.
+[24294:24294:0412/054016.200871:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://twitter.com/home (0)
+[24294:24294:0412/054016.200943:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://twitter.com/home (0)
+[24294:24294:0412/054017.399124:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/home (0)
+[24294:24294:0412/054020.596526:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/explore (0)
+[24294:24294:0412/054020.616797:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/explore (0)
+[24294:24294:0412/054026.973607:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/search?q=muito%20calor&src=typeahead_click&f=live (0)
+[24294:24294:0412/054027.218579:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/search?q=muito%20calor&src=typeahead_click&f=live (0)
+[24294:24294:0412/054027.330581:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/search?q=muito%20calor&src=typeahead_click&f=live (0)
+[24357:1:0412/054028.928793:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[24294:24294:0412/054029.008638:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/search?q=muito%20calor&src=typeahead_click&f=live (0)
+[24357:1:0412/054032.967630:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[24357:1:0412/054037.063634:INFO:document_style_environment_variables.cc(104)] E2E_Used SafeAreaInsetBottom
+[24336:24354:0412/054040.358192:WARNING:sqlite_persistent_store_backend_base.cc(197)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[24336:24354:0412/054040.358279:WARNING:sqlite_persistent_store_backend_base.cc(197)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[24294:24294:0412/054040.890282:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
